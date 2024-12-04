@@ -1,5 +1,4 @@
 <h1 align="center">Hi, this is Shivain</h1>
-<h3 align="center">3rd Year CSE student</h3>
 
 - 📫 How to reach me **singhshivain4@gmail.com**
 
